@@ -1,16 +1,16 @@
-# Hi 👋, I'm Reis
+# Olá 👋, eu sou o Reis
 
-🚀 Full-Stack Developer | Node.js & Game Ecosystem Specialist
-🗺️ Brazil
+🚀 Desenvolvedor Full-Stack | Especialista em Node.js & Ecossistemas de Jogos
+🗺️ Brasil
 
-I build scalable back-end solutions, robust APIs, and high-performance gaming server architectures.
-I'm deeply focused on architecture, performance, clean code, and database optimizations.
+Eu construo soluções escaláveis para o back-end, APIs robustas e arquiteturas de alta performance para servidores de jogos.
+Meu foco total está em arquitetura, performance, clean code e otimização de bancos de dados.
 
-I also explore autonomous AI agents and automated workflows to optimize development environments.
+Também exploro agentes autônomos de IA e fluxos automatizados para otimizar ambientes de desenvolvimento.
 
 ---
 
-### 🌐 Where to find me
+### 🌐 Onde me encontrar
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-Reis177-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reis177)
 [![DISCORD](https://img.shields.io/badge/DISCORD-REIS-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
@@ -18,16 +18,16 @@ I also explore autonomous AI agents and automated workflows to optimize developm
 
 ---
 
-### 🧠 What I do
+### 🧠 O que eu faço
 
-* 🏗️ **Full-Stack & Server-side systems**
-* ⚡ **Performance & Script optimization**
-* 🛠️ **Clean architecture & system design**
-* 🔒 **Secure APIs & authentication**
-* 🗄️ **Database structuring & connectivity**
-* 🤖 **Automation & AI Agent integrations**
-* 🎮 **Game Server Development (FiveM Frameworks)**
-* 👥 **Academic extension & community collaboration**
+* 🏗️ **Sistemas Full-Stack & Server-side**
+* ⚡ **Otimização de performance & Scripts**
+* 🛠️ **Clean architecture & Design de sistemas**
+* 🔒 **APIs seguras & Autenticação**
+* 🗄️ **Estruturação de bancos de dados & Conectividade**
+* 🤖 **Automação & Integração com Agentes de IA**
+* 🎮 **Desenvolvimento para Servidores de Jogos (Frameworks FiveM)**
+* 👥 **Extensão acadêmica & Colaboração comunitária**
 
 ---
 
@@ -45,28 +45,28 @@ I also explore autonomous AI agents and automated workflows to optimize developm
 ![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps & Tools
+#### DevOps & Ferramentas
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reis177&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Reis177 GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis177&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reis177&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Reis177" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis177&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="150" />
 </p>
 
 ---
 
-### 📝 Philosophy
+### 📝 Filosofia
 
-> "Code is not just about solving problems.
-> It's about building solutions that scale, last, and reflect identity."
+> "Código não é apenas sobre resolver problemas.
+> É sobre construir soluções que escalam, duram e refletem identidade."
 
 ---
 
-⭐️ If you like my work, consider starring a repository
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐️ Se você gostou do meu trabalho, considere deixar uma estrela no repositório
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
