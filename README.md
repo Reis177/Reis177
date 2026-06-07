@@ -14,6 +14,7 @@ Meu foco total está em arquitetura, performance, clean code.
 [![GITHUB](https://img.shields.io/badge/GITHUB-Reis177-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reis177)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-REIS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
+
 ---
 
 ### 🧠 O que eu faço
@@ -37,6 +38,7 @@ Meu foco total está em arquitetura, performance, clean code.
 ![GITHUB](https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 ---
