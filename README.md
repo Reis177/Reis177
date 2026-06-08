@@ -11,8 +11,8 @@ Meu foco total está em arquitetura, performance, clean code.
 
 ### 🌐 Onde me encontrar
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-Reis177-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reis177)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-REIS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![GITHUB](https://img.shields.io/badge/GITHUB-Reis177-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reisthepc)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-REIS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielreisep/)
 
 
 ---
